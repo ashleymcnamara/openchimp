@@ -1,0 +1,17 @@
+s = {
+	id = "D7066807-2982-4DCF-9658-E5744E87B3FD",
+	internalName = "Basics (Heavy Vingette)",
+	title = "Basics (Heavy Vingette)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			EnableGrayscaleMix = true,
+			EnableLensCorrections = true,
+			VignetteAmount = -62,
+			VignetteMidpoint = 32,
+		},
+		uuid = "F119E160-0931-4690-89B3-B89D192FE946",
+	},
+	version = 0,
+}

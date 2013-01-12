@@ -1,0 +1,24 @@
+s = {
+	id = "35C22C12-9AE6-49B3-B971-D3824B858B63",
+	internalName = "Basics (Sharpen)",
+	title = "Basics (Sharpen)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 50,
+			Contrast = 25,
+			ConvertToGrayscale = false,
+			EnableGrayscaleMix = true,
+			Exposure = 0,
+			FillLight = 0,
+			HighlightRecovery = 0,
+			Shadows = 5,
+		},
+		uuid = "452BC79A-7DB3-421F-B38E-FE436D177CBF",
+	},
+	version = 0,
+}

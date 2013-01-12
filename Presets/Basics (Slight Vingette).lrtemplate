@@ -1,0 +1,20 @@
+s = {
+	id = "A7FB4EB4-8F56-417E-B8A8-25F755F346D3",
+	internalName = "Basics (Slight Vingette)",
+	title = "Basics (Slight Vingette)",
+	type = "Develop",
+	value = {
+		settings = {
+			ChromaticAberrationB = 0,
+			ChromaticAberrationR = 0,
+			ConvertToGrayscale = false,
+			Defringe = 0,
+			EnableGrayscaleMix = true,
+			EnableLensCorrections = true,
+			VignetteAmount = -52,
+			VignetteMidpoint = 50,
+		},
+		uuid = "A53E60C5-9860-40C2-B8CF-49E1977A0BC3",
+	},
+	version = 0,
+}

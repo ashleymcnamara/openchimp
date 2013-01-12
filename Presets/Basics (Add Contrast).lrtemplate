@@ -1,0 +1,16 @@
+s = {
+	id = "5AF94FE2-DF7F-4434-8368-03B2A7AEE65A",
+	internalName = "Basics (Add Contrast)",
+	title = "Basics (Add Contrast)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoContrast = false,
+			Contrast = 61,
+			ConvertToGrayscale = false,
+			EnableGrayscaleMix = true,
+		},
+		uuid = "3C42D487-496B-4E78-BD44-87C299BB7099",
+	},
+	version = 0,
+}
