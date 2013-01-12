@@ -5,7 +5,7 @@ Photographers Tool Kit - Created by Ashley McNamara - http://www.ashleymcnamara.
 
 This contains the following
 
-### Actions available with OpenChimp ###
+### Actions available with OpenChimp 
 
 Ashley's Vintage.atn
 Basic Black and White.atn
@@ -62,7 +62,7 @@ Vintage Haze 4.atn
 Vintage Haze 5.atn
 Vintage Haze 6.atn
 
-#### Presets available with OpenChimp  ### 
+#### Presets available with OpenChimp  
 
 Basics (Add Contrast).lrtemplate
 Basics (Curves Adjustment).lrtemplate
