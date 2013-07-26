@@ -2,6 +2,7 @@ openchimp
 =========
 
 Photographers Tool Kit - http://www.openchimp.org
+
 Created by Ashley McNamara - http://www.ashleymcnamara.com
 
 This contains the following
