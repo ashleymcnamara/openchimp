@@ -1,4 +1,4 @@
-### OpenChimp
+###OpenChimp
 
 Photographers Tool Kit - http://www.openchimp.org
 

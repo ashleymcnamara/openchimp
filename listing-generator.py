@@ -1,10 +1,21 @@
 #### README.md Generator ################
 # Usage "python listing-generator.py"
-# questions please contat colin@2cups.com
-#########################################    
+# Output is a markdown formated README.MD
+#########################################   
 
 import glob
-print "### OpenChimp"
+import sys
+
+# redirect standard out to README.md
+# per - http://stackoverflow.com/questions/7152762/how-to-redirect-print-output-to-a-file-using-python
+
+orig_stdout = sys.stdout
+f = file('README.md', 'w')
+sys.stdout = f
+
+# Create README.md
+
+print "###OpenChimp"
 print ""
 print "Photographers Tool Kit - http://www.openchimp.org"
 print ""
@@ -22,11 +33,17 @@ for atn in glob.iglob("*/*.atn"): # List the Actions
 print ""
 print "###LightRoom Presets available with OpenChimp"
 print ""    
+
 for lrtemplate in glob.iglob("*/*.lrtemplate"): # List the Presets 
     print lrtemplate, '  '
     
 print ""
 print "###Templates available with OpenChimp"
 print ""
+
 for templates in glob.iglob("*/*.psd"): # List the Templates 
     print templates, '  '
+
+# Return stdout back to normal
+sys.stdout = orig_stdout
+f.close()
