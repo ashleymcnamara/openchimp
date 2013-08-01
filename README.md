@@ -4,6 +4,10 @@ Photographers Tool Kit - http://www.openchimp.org
 
 Created by Ashley McNamara - http://www.ashleymcnamara.com
 
+Follow OpenChimp On Twitter - http://www.twitter.com/openchimp
+
+Follow OpenChimp On Facebook - http://www.facebook.com/openchimp1
+
 ###Actions Available with OpenChimp
 
 Actions/Ashley's Vintage.atn   
